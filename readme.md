@@ -17,4 +17,4 @@ Click on the link to visit the website.
 
 ## Credits
 
-### Designed and Developed by - [Raunak7t](https://github.com/Raunak7t/)
+### Designed and Developed by - [raunak7t](https://github.com/raunak7t/)
